@@ -2,8 +2,8 @@ This file explains how to generate the "Fresh Tomatoes Movie Trailers" website. 
 
 Instructions for generating website:
 1. Open the entertainment_center.py file in a plain text editor (ex Sublime, notepad, notpad++, etc) and not a rich text editor (Microsoft Word).
-2. Add/remove any movies. In order to add a movie, call the movies class from the media file and provide, in the following order: 1. Title, 2. URL to the movie poster, 3. URL to the movie trailer, 4. the movie's 
-   description,	5. the movie's release date, and 6. the movies IMDB Rating. 
+2. Add/remove any movies. In order to add a movie, call the movies class from the media file and provide, in the following order: 1.     Title, 2. URL to the movie poster, 3. URL to the movie trailer, 4. the movie's 
+description,	5. the movie's release date, and 6. the movies IMDB Rating. 
 3. Next add/remove the name of the movie's variable from movie_list. If the variable is not in the list, then the movie will not be displayed in the website.
 4. Finally, double click on the entertainment_center.py file and the website should display in your default browser. If it doesn't, then open entertainment_center.py file in IDLE and run it. This should display the file.
 
